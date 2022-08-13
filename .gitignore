@@ -1,0 +1,6 @@
+aws/config.yml
+aws/.terraform
+aws/.terraform.lock.hcl
+aws/config.yml
+aws/terraform.tfstate.backup
+aws/terraform.tfstate

@@ -1,0 +1,15 @@
+---
+access:
+  region: your_aws_region
+  access_key: your_aws_access_key
+  secret_key: your_aws_secret_key
+
+s3_buckets:
+  - {
+      name: warnerb47-terraform-bucket,
+    }
+
+ecr:
+  - {
+      name: warnerb47-terraform-ecr,
+    }
